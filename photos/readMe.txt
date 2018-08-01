@@ -15,3 +15,5 @@ portraits
 sport
 under water
 vehicles
+
+The inception is a pretrained CNN, where these images are required to be further train the neural network for image classification for desirable categories.
