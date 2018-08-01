@@ -1,1 +1,2 @@
-Add the the images which required to be classified.
+
+Add the images which required to be classified.
